@@ -1,0 +1,14 @@
+sno=int(input('enter sno:'))
+name=(input('enter name:'))
+group=(input('enter group:'))
+s1=int(input('enter maths marks'))
+s2=int(input('enter chemis marks'))
+s3=int(input('enter comp marks'))
+print('sno:',sno)
+print('name:',name)
+print('group:',group)
+if(s1>=35 and s2>=35 and s3>=35)
+print('pass')
+else
+print('fail')
+
